@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tabs With ViewPager</string>
+
+    <string name="fragment_intro">
+     In android, Fragments are the modular section of an activity design and these are used to represent the behaviour of user interface (UI) in an activity. By using fragments we can create a flexible UI designs that
+     can be adjusted based on the device screen size such as tablets, smartphones. We can build multi-pane UI by combining multiple fragments in a single activity and we can reuse same fragment in multiple activities.
+     The fragment has its own lifecycle call-backs and accept its own input events. Generally, in android the fragment must be included in an activity due to that the fragment lifecycle will always effected by the host
+     activity life cycle. In case if we pause an activity, all the fragments related to an activity will also be stopped. In android, we can insert fragment into activity layout by using  element and by dividing the layout
+     of an activity into fragments, we can modify the appearance of an app design at runtime. We can also implement a fragment without having any user interface
+    </string>
+
+</resources>
